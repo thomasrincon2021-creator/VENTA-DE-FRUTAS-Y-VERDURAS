@@ -2,7 +2,7 @@
   <img src="LOGO FRUTAS Y VERDURAS.png" alt="Logo Frutas y Verduras Frescas" width="300">
 </p>
 
-# 🍎 Empresa de Venta de Frutas y Verduras
+# 🍎 Venta de Frutas y Verduras
 
 Frutas y verduras frescas  
   
